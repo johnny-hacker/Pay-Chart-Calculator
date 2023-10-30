@@ -1,8 +1,8 @@
-# Program 8 exercise # 8
-# Programmer: Olmedo, Johnny
-# CSC119-141
+#Programmer: Olmedo, Johnny
 # Submission date: 10/26/2019 
 # This program determines pay wage of multiple employees
+# this is the initial program I wrote for this problem, no use of classes or objects
+# just a simple proof of concept
 def main():
    # Initialize list
    empId = [56588, 45201, 78951, 87775, 84512, 13028, 75804]
